@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">ReceiverApp</string>
+
+    <!-- ask 액티비티 스트링 -->
+    <string name="ask_title">문의사항</string>
+    <string name="ask_hint">여기에 입력하세요.</string>
+    <string name="ask_send">전송</string>
+    <string name="ask_check">기기 정보 및 사용 정보를 보내는데 동의합니다.</string>
+
+    <!-- terms 액티비티 스트링 -->
+    <string name="terms_title1">이용약관</string>
+    <string name="terms_agree1">이용약관에 동의합니다.</string>
+    <string name="terms_title2">개인정보 취급방침</string>
+    <string name="terms_agree2">개인정보 취급방침에 동의합니다.</string>
+    <string name="terms_title3">개인정보의 수집 및 이용 목적</string>
+    <string name="terms_agree3">개인정보의 수집 및 이용 목적에 동의합니다.</string>
+
+    <string name="terms_test1">
+    1스크롤 테스트입니다. 스크롤 테스트입니다. 스크롤 테스트입니다. 스크롤 테스트입니다.
+    2스크롤 테스트입니다. 스크롤 테스트입니다. 스크롤 테스트입니다. 스크롤 테스트입니다.
+    3스크롤 테스트입니다. 스크롤 테스트입니다. 스크롤 테스트입니다. 스크롤 테스트입니다.
+    4스크롤 테스트입니다. 스크롤 테스트입니다. 스크롤 테스트입니다. 스크롤 테스트입니다.
+    5스크롤 테스트입니다. 스크롤 테스트입니다. 스크롤 테스트입니다. 스크롤 테스트입니다.
+   </string>
+
+    <string name="terms_test2">
+    1스크롤 테스트. 스크롤 테스트. 스크롤 테스트. 스크롤 테스트. 스크롤 테스트.
+    2스크롤 테스트. 스크롤 테스트. 스크롤 테스트. 스크롤 테스트. 스크롤 테스트.
+    3스크롤 테스트. 스크롤 테스트. 스크롤 테스트. 스크롤 테스트. 스크롤 테스트.
+    4스크롤 테스트. 스크롤 테스트. 스크롤 테스트. 스크롤 테스트. 스크롤 테스트.
+    5스크롤 테스트. 스크롤 테스트. 스크롤 테스트. 스크롤 테스트. 스크롤 테스트.
+   </string>
+
+    <string name="terms_test3">
+    1스크롤 테스트 중. 스크롤 테스트 중. 스크롤 테스트 중. 스크롤 테스트 중.
+    2스크롤 테스트 중. 스크롤 테스트 중. 스크롤 테스트 중. 스크롤 테스트 중.
+    3스크롤 테스트 중. 스크롤 테스트 중. 스크롤 테스트 중. 스크롤 테스트 중.
+    4스크롤 테스트 중. 스크롤 테스트 중. 스크롤 테스트 중. 스크롤 테스트 중.
+    5스크롤 테스트 중. 스크롤 테스트 중. 스크롤 테스트 중. 스크롤 테스트 중.
+   </string>
+
+    <!-- audio 액티비티 스트링 -->
+    <string name="audio_LE">LE 오디오 연결됨</string>
+    <string name="audio_place">3. 상왕십리역</string>
+    <string name="audio_on">방송 송출 중</string>
+    <string name="audio_off">방송 송출 중이 아닙니다.</string>
+    <string name="audio_check">수신기 상태 확인</string>
+    <string name="audio_connection">연결된 송신기 확인</string>
+    <string name="audio_volume">현재 볼륨</string>
+
+    <!-- splash screen 액티비티 스트링 -->
+    <string name="splash_title">성동구 스마트 쉼터 앱</string>
+
+    <!-- main 액티비티 스트링 -->
+    <string name="main_now">현재 위치에서 연결 가능한 송신기</string>
+    <string name="main_station1">#26 - 행당역(04279)</string>
+    <string name="main_station2">#1 - 성동구청 앞(04111)</string>
+    <string name="main_station3">#2 - 성원중 성수동 이마트 앞(04198)</string>
+    <string name="main_station4">#3 - 상왕십리역(04102)</string>
+    <string name="main_station5">#4 - 금호역(04156)</string>
+    <string name="main_station6">#5 - 성동세무서(04213)</string>
+    <string name="main_list">전체 송신기 목록</string>
+    <string name="main_near">가까운 송신기 자동 연결</string>
+    <string name="main_audio">오디오</string>
+
+</resources>
